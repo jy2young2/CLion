@@ -1,13 +1,16 @@
 <keymap version="1" name="IntelliJ IDEA Classic (OS X) copy" parent="Mac OS X">
   <action id="ActivateStructureToolWindow" />
+  <action id="Arrangement.Rule.Edit" />
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="meta open_bracket" />
+    <keyboard-shortcut first-keystroke="f1" />
   </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta f4" />
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
+  <action id="ContextHelp" />
   <action id="EditorCodeBlockEnd" />
   <action id="EditorCodeBlockStart" />
   <action id="EditorSelectWord" />
@@ -30,6 +33,7 @@
   <action id="Forward">
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="meta close_bracket" />
+    <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="GotoBookmark1" />
   <action id="GotoDeclaration">
@@ -42,9 +46,11 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift meta o" />
   </action>
+  <action id="GotoNextError" />
   <action id="JumpToLastWindow" />
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl 1" />
   </action>
   <action id="Vcs.UpdateProject" />
+  <action id="XDebugger.SetValue" />
 </keymap>
