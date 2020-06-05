@@ -1,30 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Open Files" />
-    <option name="defaultScopeName" value="Open Files" />
-    <option name="SEARCH_SCOPE" value="Open Files" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>P</mask>
-      <mask>Pay</mask>
-      <mask>Payl</mask>
-      <mask>Payload</mask>
-      <mask>Payload**</mask>
-      <mask>(*Payload*</mask>
-      <mask>(Payload*</mask>
-      <mask>*Payload*</mask>
-      <mask>Payload*</mask>
-      <mask>ayload*</mask>
-      <mask>*.py</mask>
-      <mask>!*.py</mask>
-    </recentFileMasks>
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
